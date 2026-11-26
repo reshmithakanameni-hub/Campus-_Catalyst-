@@ -19,8 +19,8 @@ A Python application for logging, approving and reporting student volunteer hour
 
 ## 🚀 Quick start (web app)
 ```bash
-git clone https://github.com/YOUR-USERNAME/campus-catalyst.git
-cd campus-catalyst
+git clone https://github.com/reshmithakanameni-hub/Campus_Catalyst-.git
+cd Campus_Catalyst-/campus_catalyst
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
